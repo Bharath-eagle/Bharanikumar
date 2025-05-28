@@ -1,0 +1,6 @@
+a=int(input("Enter the number"))
+k=1
+for i in range(1,a+1):
+ k=k*i
+ print(f"The factorial of {a} is {k}")
+ 
